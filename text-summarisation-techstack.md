@@ -231,5 +231,5 @@ answer = tokenizer.decode(outputs[0])
 
 print(answer)
 ```
-
+The code explained in this blog is available here [FLAN_T5_Finetuning_QA_Yahoo_Data.ipynb](https://github.com/sudhakso/llm/blob/main/FLAN_T5_Finetuning_QA_Yahoo_Data.ipynb)
 
